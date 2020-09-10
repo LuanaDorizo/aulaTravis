@@ -3,5 +3,5 @@ python:
  - "3.4"
 before_script:
  - cd src
- scrip:
-  - python testes.py
+scrip:
+ - python testes.py
